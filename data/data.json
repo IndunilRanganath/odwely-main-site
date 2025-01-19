@@ -1,0 +1,29 @@
+{
+    "breadcrumbs": {
+      "links": [
+        { "text": "Home", "url": "index.html" },
+        { "text": "Services", "url": "services.html" },
+        { "text": "Single Service", "url": "" }
+      ],
+      "title": "Single Service",
+      "description": "Although, final stages of the internal network gives a complete experience of the Parameter of Speculative Environment."
+    },
+    "services": [
+      {
+        "icon": "bi bi-code-slash",
+        "title": "Web Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio unde veniam distinctio non."
+      },
+      {
+        "icon": "bi bi-megaphone-fill",
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio unde veniam distinctio non."
+      },
+      {
+        "icon": "bi bi-bug-fill",
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio unde veniam distinctio non."
+      }
+    ]
+  }
+  
